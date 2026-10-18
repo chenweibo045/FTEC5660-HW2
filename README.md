@@ -120,7 +120,7 @@ wrapped in its own try/except so a single failure still returns a score instead
 of crashing the run.
 
 Results on `public_test` (run with `python3 hw2.py --cv-folder public_test`,
-about 70 seconds): **7/7 correct**, accuracy 1.00.
+under two minutes): **7/7 correct**, accuracy 1.00.
 
 | CV | score | label | correctness |
 | --- | --- | --- | --- |
